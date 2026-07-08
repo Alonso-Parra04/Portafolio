@@ -3,3 +3,4 @@ Aquí se encuentran mis proyectos tanto en análisis de datos y ciencia de datos
 
 - Datos extraídos en Kaggle
 - Python
+- SQL
